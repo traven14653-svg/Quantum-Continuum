@@ -1,4 +1,4 @@
-The Quantum Continuum Project
+#The Quantum Continuum Project
 Project: "The Quantum Continuum"
 A revolutionary protocol for creating a global, scalable, quantum network
 Overview
