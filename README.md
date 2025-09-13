@@ -6,7 +6,7 @@ Email address to contact me on business matters: d74122171@gmail.com
 
 The QUANTUM CONTINUUM: A Full-Spectrum Architecture for Global Quantum Networks
 Introduction
-My name is [Your Name], and I'm here to present The Quantum Continuum, a revolutionary, full-stack architecture that solves the three fundamental challenges facing the development of a global quantum network: scalability, reliability, and security. Unlike existing concepts, our project is an end-to-end, integrated system proven to be functional through detailed simulations.
+My name is Artem, and I'm here to present The Quantum Continuum, a revolutionary, full-stack architecture that solves the three fundamental challenges facing the development of a global quantum network: scalability, reliability, and security. Unlike existing concepts, our project is an end-to-end, integrated system proven to be functional through detailed simulations.
 1. The Foundational Infrastructure: The Quantum Kernel
 At the heart of every node in our network lies the Quantum Kernel. This is the core operating system that manages all quantum processes, ensuring seamless, autonomous, and secure communication. The kernel is built on three interconnected protocols:
  * Quantum Link Protocol: The engine for data transmission.
